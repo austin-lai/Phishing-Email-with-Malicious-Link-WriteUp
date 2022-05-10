@@ -1,15 +1,12 @@
-# Phishing-Email-with-Malicious-Link-WriteUp
-Phishing Email with Malicious Link WriteUp
+# Phishing Email with Malicious Link WriteUp
 
-# Spear Phishing Email Malicious Attachment WriteUp
-
-> Austin Lai | July 29th, 2021
+> Austin Lai | May 10th, 2022
 
 ---
 
 <!-- Description -->
 
-WriteUp Regarding a Spam Email - Spear Phishing - Malicious Attachment
+Phishing Email with Malicious Link WriteUp
 
 WriteUp with sanitized and generic information.
 
@@ -19,8 +16,17 @@ WriteUp with sanitized and generic information.
 
 ## Table of Contents
 
+<!-- TOC -->
 
+- [Phishing Email with Malicious Link WriteUp](#phishing-email-with-malicious-link-writeup)
+    - [Table of Contents](#table-of-contents)
+    - [WriteUp](#writeup)
 
+<!-- /TOC -->
+
+## WriteUp
+
+[Phishing Email with Malicious Link WriteUp](https://github.com/austin-lai/Phishing-Email-with-Malicious-Link-WriteUp/blob/master/PHISHING%20EMAIL%20ANALYSIS%20-%20Malicious%20Link%20-%20Austin.pdf)
 
 <br />
 
